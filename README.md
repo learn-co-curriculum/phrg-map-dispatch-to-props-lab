@@ -11,4 +11,4 @@ In this application we will be building an application to keep track of our favo
 
 ## Instructions
 
-What we want to do here is use the __bindActionCreators()__ function from the __Redux__ library and and pass dispatch into our __mapDispatchToProps()__ function so that we can __connect()__ the __addRestaurant()__ function as a props to our __RestaurantInput__ component. 
+What we want to do here is use the __bindActionCreators()__ function from the __Redux__ library and and pass dispatch into our __mapDispatchToProps()__ function so that we can __connect()__ the __addRestaurant()__ function as a props to our __RestaurantInput__ component. <p data-visibility='hidden'>PHRG mapDispatchToProps Lab</p>
